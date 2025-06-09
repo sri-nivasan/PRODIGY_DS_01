@@ -7,7 +7,7 @@ Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy I
 
 ## Dataset
 
-The dataset used for this task is <a href="https://github.com/sri-nivasan/PRODIGY_DS_01/blob/main/PRODIGY_DS_DATASET.csv">Dataset</a>. This dataset contains records of population. 
+The dataset used for this task is <a href="https://github.com/tinu-mathildas-jane/PRODIGY_DS_01/blob/main/PRODIGY_DS_DATASET.csv">Dataset</a>. This dataset contains records of population. 
 
 ## Tools and Libraries used
 - Jupyter notebook
